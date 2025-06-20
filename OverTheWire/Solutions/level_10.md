@@ -12,7 +12,7 @@ Goal of this level is to find password for the next level is stored in the file 
    ssh bandit9@bandit.labs.overthewire.org -p 2220
    ```
 
-2. ***
+2.
 
 Initial solution to find ===, and looking for password string, very difficult to sees
 
