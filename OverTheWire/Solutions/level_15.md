@@ -12,9 +12,7 @@ The password for the next level can be retrieved by submitting the password of t
    nc localhost 30000
    ```
 
-2.
-
-**input current level password in, program returns correct! and password for next level**
+2. **input current level password in, program returns correct! and password for next level**
 
 ## Password
 
