@@ -18,5 +18,5 @@ alias addall='git add .'
 alias pull='git pull origin'
 alias push='git push origin'
 alias sha = 'git stash apply'
-alias shp = 'stash pop'
+alias shp = 'git stash pop'
 ```
